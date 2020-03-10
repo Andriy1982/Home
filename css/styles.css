@@ -1,0 +1,15 @@
+.box{
+   margin: 10% ;
+    color: rgb(14, 13, 13);
+    background-color: rgb(47, 141, 47);
+    height: 300px;
+    width: 300px;
+} 
+.box_text{
+    height: 500px;
+    width: 1000px;
+    font-size: 150%;
+    font-family:'Times New Roman';
+    font-style: italic;
+    font-stretch: ultra-condensed;
+}
